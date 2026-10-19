@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+onnxruntime>=1.16
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+gammatone @ git+https://github.com/detly/gammatone.git
